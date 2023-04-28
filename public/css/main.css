@@ -1,0 +1,17 @@
+body {
+    background-color:palevioletred;
+    font-size: 27px;
+}
+
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+    background-color: black;
+    padding: 12px;
+    color: #fff;
+}
+
+header, footer {
+    background-color: red;
+    padding: 20px;
+}

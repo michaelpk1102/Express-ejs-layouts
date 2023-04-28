@@ -1,0 +1,19 @@
+{
+  "name": "epxress-ejs-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "michael Emmanuel",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "epxress": "^0.0.1-security",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "i": "^0.3.7",
+    "nodemon": "^2.0.22"
+  }
+}
